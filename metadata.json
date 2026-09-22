@@ -1,0 +1,6 @@
+{
+  "name": "مخطط المناهج الابتدائية التونسية",
+  "description": "المخطط السنوي الرسمي لتوزيع الوحدات التعليمية والبرامج الرسمية لوزارة التربية التونسية لجميع السنوات والأسابيع الخمسة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
